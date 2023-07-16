@@ -1,0 +1,23 @@
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.csprojAssemblyReference.cache
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.Form1.resources
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.Properties.Resources.resources
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.csproj.GenerateResource.cache
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.csproj.CoreCompileInputs.cache
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\bin\Debug\AI_Proiect3.exe.config
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\bin\Debug\AI_Proiect3.exe
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\bin\Debug\AI_Proiect3.pdb
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.exe
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.pdb
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\bin\Debug\ZedGraph.dll
+E:\Faculta\AI\Proiect 3\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.csproj.CopyComplete
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\bin\Debug\AI_Proiect3.exe.config
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\bin\Debug\AI_Proiect3.exe
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\bin\Debug\AI_Proiect3.pdb
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.csprojAssemblyReference.cache
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.Form1.resources
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.Properties.Resources.resources
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.csproj.GenerateResource.cache
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.csproj.CoreCompileInputs.cache
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.csproj.CopyComplete
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.exe
+C:\Users\Ali3n\Desktop\AI_Proiect3\AI_Proiect3\obj\Debug\AI_Proiect3.pdb
